@@ -1,4 +1,6 @@
-![API Whisperer Badge](https://img.shields.io/badge/API_Whisperer-%F0%9F%9B%B0-blueviolet?style=for-the-badge&logo=whatsapp)
+![FabalosDev Certified](https://img.shields.io/badge/FabalosDev%20Certified-%F0%9F%94%90%20API%20Whisperer-blueviolet?style=for-the-badge&logo=whatsapp)
+
+
 
 ## 🎯 Objective
 Automate scheduled content posting to WhatsApp **without relying on local machines** or **Mac-only tools**, and ensure **cloud-friendly, scalable, and stable** delivery for production use.
@@ -42,7 +44,7 @@ Automate scheduled content posting to WhatsApp **without relying on local machin
 - Still unofficial, moderate risk
 - Use with backups and caution
 
-- WHAPI.cloud (Third-party WhatsApp API Provider
+- WHAPI.cloud (Third-party WhatsApp API Provider)
 - Quick setup
 - No Facebook Business verification needed
 - Supports media, files, buttons, templates
