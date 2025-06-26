@@ -1,4 +1,4 @@
-![Social Media Automation Policy](https://img.shields.io/badge/Social%20Media%20Automation-Policy%20Report-%230F52BA?style=for-the-badge&logo=github&logoColor=white)
+![Social Media Automation Policy](https://img.shields.io/badge/Social%20Media%20Automation-Policy%20Report-%230F52BA?style=for-the-badge&logo=github&logoColor=white) ![Status: Published](https://img.shields.io/badge/Status-Published-brightgreen?style=flat-square)
 # 📑 Social Media Automation Policy
 
 ## 1. 🧭 Executive Summary
@@ -49,7 +49,7 @@ This policy defines acceptable and compliant automation practices across major s
 | **TikTok**<br>[TikTok Developer Terms](https://developers.tiktok.com/terms/)                                       | ❌ *Very Restricted*     | Automation that manipulates the system (e.g., auto-follows, likes, comments, fake views) is strongly discouraged and penalized. **Official API usage is limited to tools for scheduling, comment management, and analytics.**                                                                                              | Immediate bans, shadowbans, reduced content visibility.                                                                   |
 | <br>**Pinterest**<br>[Pinterest Acceptable Use Policy](https://policy.pinterest.com/en/acceptable-use-policy)      | ✅ *Safe w/ Tools*       | Allows scheduling and posting via **official APIs and approved tools** (like Buffer or Tailwind). No botting that creates spammy, low-quality, or duplicate content at high volumes.                                                                                                                                       | Reduced reach if abused, **account flagging for spammy behavior**                                                         |
 | **X (Twitter)**<br>[Twitter/X Automation Rules](https://help.twitter.com/en/rules-and-policies/twitter-automation) | ✅ *Cautiously Allowed*  | Automation permitted with proper API use. Auto-reply bots must follow rate limits and provide value. **Prohibits platform manipulation, spam, and duplicate content at scale**                                                                                                                                             | Account lockouts, API suspension, **reduced visibility/shadowbanning.**                                                   |
-| **Truth Social**<br>[Truth Social Terms of Service](https://truthsocial.com/terms-of-service)                      | ⚠️ *Unclear*            | o official public API for third-party _posting_ is evident, suggesting limited or no direct automation for content distribution. **Focuses on preventing spam, scraping, and mass bot activity.** Platform is built on Mastodon, which has API capabilities, but Truth Social's implementation heavily restricts them.     | Unknown enforcement, rely on discretion, **potential account restrictions if automated activity is detected**             |
+| **Truth Social**<br>[Truth Social Terms of Service](https://truthsocial.com/terms-of-service)                      | ⚠️ *Unclear*            | No official public API for third-party _posting_ is evident, suggesting limited or no direct automation for content distribution. **Focuses on preventing spam, scraping, and mass bot activity.** Platform is built on Mastodon, which has API capabilities, but Truth Social's implementation heavily restricts them.     | Unknown enforcement, rely on discretion, **potential account restrictions if automated activity is detected**             |
 
 ## 4. 🛠 Approved Tools (with Notes)
 
@@ -90,7 +90,7 @@ These tools often operate through unofficial APIs, browser emulation, or aggress
 - Use storytelling tone, not spammy templates
 - Treat engagement like conversation, not campaign blast
 
-## 11. 📎 Appendix: Reference Sources & Platform Policies
+## 6. 📎 Appendix: Reference Sources & Platform Policies
 
 **Official Platform Guidelines:**
 - [Facebook Platform Terms](https://developers.facebook.com/policy/)
@@ -118,6 +118,7 @@ These tools often operate through unofficial APIs, browser emulation, or aggress
 **FabalosDev** – AI Automation Specialist  
 Report co-drafted with GPT-4 as part of applied AI workflow research.  
 Designed for hybrid automation systems involving social media compliance, human-in-the-loop logic, and platform integrity.
+_Version: 1.0 • Published: 2025-06-26_
 
 *Originally developed as an internal-facing report.  
 Now shared publicly for educational and reference purposes.*
