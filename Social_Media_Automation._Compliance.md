@@ -1,4 +1,8 @@
-![Social Media Automation Policy](https://img.shields.io/badge/Social%20Media%20Automation-Policy%20Report-%230F52BA?style=for-the-badge&logo=github&logoColor=white) ![Status: Published](https://img.shields.io/badge/Status-Published-brightgreen?style=flat-square)
+![Social Media Automation Policy](https://img.shields.io/badge/Social%20Media%20Automation-Policy%20Report-%230F52BA?style=for-the-badge&logo=github&logoColor=white) 
+
+_Version: 1.0 • Published: 2025-06-26_ ![Status: Published](https://img.shields.io/badge/Status-Published-brightgreen?style=flat-square)
+
+
 # 📑 Social Media Automation Policy
 
 ## 1. 🧭 Executive Summary
@@ -118,7 +122,6 @@ These tools often operate through unofficial APIs, browser emulation, or aggress
 **FabalosDev** – AI Automation Specialist  
 Report co-drafted with GPT-4 as part of applied AI workflow research.  
 Designed for hybrid automation systems involving social media compliance, human-in-the-loop logic, and platform integrity.
-_Version: 1.0 • Published: 2025-06-26_
 
 *Originally developed as an internal-facing report.  
 Now shared publicly for educational and reference purposes.*
