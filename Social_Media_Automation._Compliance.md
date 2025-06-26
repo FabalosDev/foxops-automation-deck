@@ -1,8 +1,5 @@
 ![Social Media Automation Policy](https://img.shields.io/badge/Social%20Media%20Automation-Policy%20Report-%230F52BA?style=for-the-badge&logo=github&logoColor=white) 
 
-_Version: 1.0 • Published: 2025-06-26_ ![Status: Published](https://img.shields.io/badge/Status-Published-brightgreen?style=flat-square)
-
-
 # 📑 Social Media Automation Policy
 
 ## 1. 🧭 Executive Summary
@@ -129,3 +126,5 @@ Now shared publicly for educational and reference purposes.*
 📂 Part of the [FabalosDev GitHub Repository](https://github.com/FabalosDev)  [Fabaverse GitHub Repository](https://github.com/fabaverse)
 
 ---
+
+![Status: Published](https://img.shields.io/badge/Status-Published-brightgreen?style=flat-square) _Version: 1.0 • Published: 2025-06-26_
